@@ -1,0 +1,4 @@
+l2	time	2015-02-27T03:49:42	code	32000	message	<span>Application started</span>
+l2	time	2015-02-27T03:49:43	code	1120	message	<span>Report-Mailer Service Started</span>
+l2	time	2015-02-27T03:50:51	code	5001	message	<span>Audit: SecuritySuccess Login with username repaircarizulf@apphbproject.ml from ::1</span>
+l2	time	2015-02-27T03:51:54	code	500	message	<span>Info ReferralReceived:<br/>Referral received from target <a href="http://localhost:28011/EditConfig.aspx">http://localhost:28011/EditConfig.aspx</a> originating at IP Address ::1 </span>
